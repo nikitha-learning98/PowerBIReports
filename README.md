@@ -25,4 +25,5 @@ In this page I have used 'card' visual to show 'Number of customers', 'Number of
 ![Preview](https://github.com/nikitha-learning98/PowerBIReports/blob/main/Overall%20Insight.png)
 OVERALL INSIGHTS:
 In this page I have used card visual to show 'customer service calls', 'International Charges' and 'Data Charges' and used a slicer for 'contract category' [Monthly or yearly]  and 'payment method'[Credit card, debit card , paper check] using clusterd bar chart I am visualizing churn rate based on the grouped consumption and unlimited data plan and we see that churn rate is more for customers who have unlimited data plan and who are consuming less then 5 GB. Using Line chart I have visualized average customer service calls by state and Churn Label [Yes-Churned, No- NOt Churned] and we can observe that customers who have churned has the highest customer calls than the other customers. Using map visual I have visualized the customer service calls for eaxh state by applying conditional formatting to Bubble color [For minimum customer calls to maximum customer calls].
+![Preview](https://github.com/nikitha-learning98/PowerBIReports/blob/main/Overall%20Insight.png)
 
