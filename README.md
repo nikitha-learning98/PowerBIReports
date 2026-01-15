@@ -22,7 +22,7 @@ Analyzing Customer Churn Power BI report have multiple pages. Below is the descr
 --------------------------------------------------------------------------
 OVERVIEW OF CHURNRATE:
 In this page I have used 'card' visual to show 'Number of customers', 'Number of Churned customers' and 'churn rate'. Used 'Donut' chart to see the percentage of customers for each contract type and used pie-chart to see the percentage of churned customers for each churn category. Finally using 'map' visual I tried to see how churn rate is for each state. For the Bubble size, I have used 'churn rate' so that visually we can tell which state has the highest or lowest churn rate.
-!(https://github.com/nikitha-learning98/PowerBIReports/blob/main/Overall%20Insight.png)
+![Preview](https://github.com/nikitha-learning98/PowerBIReports/blob/main/Overall%20Insight.png)
 OVERALL INSIGHTS:
 In this page I have used card visual to show 'customer service calls', 'International Charges' and 'Data Charges' and used a slicer for 'contract category' [Monthly or yearly]  and 'payment method'[Credit card, debit card , paper check] using clusterd bar chart I am visualizing churn rate based on the grouped consumption and unlimited data plan and we see that churn rate is more for customers who have unlimited data plan and who are consuming less then 5 GB. Using Line chart I have visualized average customer service calls by state and Churn Label [Yes-Churned, No- NOt Churned] and we can observe that customers who have churned has the highest customer calls than the other customers. Using map visual I have visualized the customer service calls for eaxh state by applying conditional formatting to Bubble color [For minimum customer calls to maximum customer calls].
 
